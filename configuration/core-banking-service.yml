@@ -1,8 +1,8 @@
 spring:
   datasource:
-    url: jdbc:mysql://localhost:3306/banking_core_service
-    username: root
-    password: password
+    url: jdbc:mysql://192.168.1.24:3306/banking_core_service
+    username: dell
+    password: P3S0luTions!
   jpa:
     hibernate:
       ddl-auto: none
